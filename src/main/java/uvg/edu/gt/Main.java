@@ -4,6 +4,10 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.*;
 
+/**
+ * Clase principal que contiene el método main y el menú de opciones para el usuario
+ */
+
 public class Main {
     public static void main(String[] args) {
         // Crear el factory para seleccionar la implementación de Map
